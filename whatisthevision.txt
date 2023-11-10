@@ -10,3 +10,10 @@ wallpaper generator
     
 
     -how are we actually generating these wallpapers?
+
+
+
+    there's a dynamic wallpaper engine which is pretty cool here:
+        https://github.com/zzag/plasma5-wallpapers-dynamic/tree/main
+        take a look!
+        (it doesn't work.)
