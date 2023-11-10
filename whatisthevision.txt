@@ -1,0 +1,12 @@
+what is the vision?
+
+
+wallpaper generator
+    - i want it to be dynamic, if possible
+    - based on weather/location
+    - i feel like news state is more interesting
+
+        - sentiment analysis
+    
+
+    -how are we actually generating these wallpapers?
